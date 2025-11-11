@@ -1,5 +1,3 @@
-Here are the questions from your images, formatted as requested:
-
 ### **Question 1**
 
 What is the primary role of Large Language Models (LLMs) in a Retrieval Augmented Generation (RAG) system?
